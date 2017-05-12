@@ -1,0 +1,27 @@
+{
+  "name": "fe-dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "fedev": "index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.4.0",
+    "blueimp-tmpl": "^3.8.0",
+    "expose-loader": "^0.7.3",
+    "fs-extra": "^3.0.1",
+    "jquery": "^3.2.1",
+    "js-cookie": "^2.1.4",
+    "json-loader": "^0.5.4",
+    "koa": "^2.2.0",
+    "koa-favicon": "^2.0.0",
+    "koa-static": "^3.0.0",
+    "node-sass": "^4.5.2",
+    "raw-loader": "^0.5.1",
+    "webpack": "^2.5.1",
+    "webpack-dev-middleware": "^1.10.2"
+  }
+}
